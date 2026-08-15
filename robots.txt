@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-rp7tfh.leogaming.cfd/sitemap.xml
